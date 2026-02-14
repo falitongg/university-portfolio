@@ -1,0 +1,3 @@
+# Detailed assignment
+
+The task is to create a file called polynomials.py, which contains three functions for basic operations with polynomials. Specifically, these are the calculation of the value of a polynomial, the sum of two polynomials, and the product of two polynomials. We will represent polynomials in Python using the list data type. The items in the lists will be numbers of the float data type corresponding to the coefficients of the given polynomial. Let us define that the first item in the list with index zero will correspond to the coefficient of the constant term, the second to the coefficient of the linear term, the third to the coefficient of the quadratic term, etc. 

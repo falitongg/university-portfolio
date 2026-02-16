@@ -5,6 +5,17 @@
 **Task Manager** is a web-based application designed for creating, managing, and organizing personal notes. Developed as a semester project, it demonstrates a full-stack implementation using native **PHP** without a relational database, relying instead on structured **JSON** files for data persistence and **Cookies** for temporary guest storage.
 
 The project features a responsive design, AJAX-based interactivity, image processing for profiles, and a dedicated administration panel.
+<img width="1250" height="740" alt="image" src="https://github.com/user-attachments/assets/577b64dd-553c-40a1-a1c4-fa443aab1acf" />
+<img width="1250" height="740" alt="image" src="https://github.com/user-attachments/assets/e10ad4df-d41b-4ca9-8507-ea63f577ff7c" />
+<img width="1250" height="487" alt="image" src="https://github.com/user-attachments/assets/b6c6c6d4-ee2c-45f7-824e-0030983c087e" />
+
+<img width="1235" height="701" alt="image" src="https://github.com/user-attachments/assets/f66effe8-9810-4e25-8944-328dd980952b" />
+<img width="639" height="873" alt="image" src="https://github.com/user-attachments/assets/70a3d030-5dc0-4229-b07b-808b1a6c6463" />
+<img width="639" height="685" alt="image" src="https://github.com/user-attachments/assets/141fd4da-c7e2-4fc1-90f9-6704af709c1d" />
+<img width="1793" height="832" alt="image" src="https://github.com/user-attachments/assets/0569a0fe-cfd9-41dc-a4e5-9cbb49d438e5" />
+
+
+
 
 ---
 

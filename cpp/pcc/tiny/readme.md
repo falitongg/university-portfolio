@@ -29,3 +29,10 @@ Completed code is provided where, despite all tests passing, a defect in dynamic
 
 **Functionality:**
 The `summarize_data` function returns statistics for each valid line in the input stream; invalid lines are skipped. Each line begins with a number `n`, indicating the quantity of subsequent numbers. These following numbers are required to be within the range [0, 255].
+
+## Task 03 – Object Lifetime
+
+The `summarize_data` function has been updated to prevent previous memory errors by introducing a `fixed_array` class responsible for resource management. However, implementation flaws persist and are to be corrected.
+
+**Output Format Change:**
+The output format has been modified to account for invalid lines. Instead of being skipped, invalid lines now result in a returned statistic indicating an element count of `std::numeric_limits<size_t>::max()`.

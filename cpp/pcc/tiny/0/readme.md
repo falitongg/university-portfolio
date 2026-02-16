@@ -1,4 +1,4 @@
-## Task 0 – Formatted Stream Output
+## Task 00 – Formatted Stream Output
 
 A simple function, `write_stats`, is to be implemented. This function accepts a dataset and an output stream, into which three statistical values are to be written: minimum, maximum, and mean.
 

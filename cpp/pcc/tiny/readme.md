@@ -1,4 +1,4 @@
-# Tiny assignments
+# <a href="https://cw.fel.cvut.cz/b251/courses/b6b36pcc/ukoly/hwjednohubky">Tiny assignments</a>
 "The bite-sized challenges are not mandatory, but we strongly recommend completing them. If you work on them continuously, they will allow you to continuously verify your programming knowledge." - B6B36PCC's course page
 
 ## Task 00 – Formatted Stream Output

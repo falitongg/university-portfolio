@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.10)
+project(cppsemestralprjct)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(cppsemestralprjct main.cpp
+        maze.hpp
+        maze.cpp
+        player.hpp
+        player.cpp
+        renderer.hpp
+        renderer.cpp
+        game.hpp
+        game.cpp
+        generator.hpp
+        helper.cpp
+        helper.hpp
+        generator.cpp
+)

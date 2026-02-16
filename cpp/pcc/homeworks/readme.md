@@ -35,6 +35,8 @@ A C++ assignment focused on decrypting and processing satellite data from the Ja
 ## Project 2: Robinson Crusoe – Island Graph Navigator
 
 A C++ assignment focused on graph theory and object-oriented programming (OOP). Students model Robinson Crusoe's map as an undirected graph to identify islands (connected components) and find optimal paths between locations.
+<img width="486" height="482" alt="image" src="https://github.com/user-attachments/assets/3adcc145-5f01-4752-a833-f75398d0ad55" /> <img width="485" height="485" alt="image" src="https://github.com/user-attachments/assets/492ab5d7-d623-449d-a056-0725d2adcae3" />
+
 
 ### Overview
 * **Goal:** Implement a graph structure using classes to represent vertices and edges.

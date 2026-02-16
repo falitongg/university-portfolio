@@ -1,7 +1,7 @@
 # Tiny assignments
 "The bite-sized challenges are not mandatory, but we strongly recommend completing them. If you work on them continuously, they will allow you to continuously verify your programming knowledge." - B6B36PCC's course page
 
-## Task 0 – Formatted Stream Output
+## Task 00 – Formatted Stream Output
 
 A simple function, `write_stats`, is to be implemented. This function accepts a dataset and an output stream, into which three statistical values are to be written: minimum, maximum, and mean.
 
@@ -22,3 +22,10 @@ std::string pluralize(std::string const& str);
 std::vector<std::string> pluralize(std::vector<std::string> const& str);
 ```
 The function is intended to convert a word (or a vector of words) into the plural form. The provided implementation contains errors; the code is to be modified to ensure all tests pass.
+
+## Task 02 – Working with Dynamically Allocated Memory
+
+Completed code is provided where, despite all tests passing, a defect in dynamic memory management exists. The implementation is to be corrected to resolve this error.
+
+**Functionality:**
+The `summarize_data` function returns statistics for each valid line in the input stream; invalid lines are skipped. Each line begins with a number `n`, indicating the quantity of subsequent numbers. These following numbers are required to be within the range [0, 255].

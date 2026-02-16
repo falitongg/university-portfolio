@@ -1,4 +1,4 @@
-## 03 – Object Lifetime
+## Task 03 – Object Lifetime
 
 The `summarize_data` function has been updated to prevent previous memory errors by introducing a `fixed_array` class responsible for resource management. However, implementation flaws persist and are to be corrected.
 

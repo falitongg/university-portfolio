@@ -1,4 +1,5 @@
 # Post-apocalyptic 2D Game (Rogue-like side-scroller)
+[![Watch the video](https://img.youtube.com/vi/1CA494PFkos/maxresdefault.jpg)](https://www.youtube.com/watch?v=1CA494PFkos)
 
 ## Concept
 

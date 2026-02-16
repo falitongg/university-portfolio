@@ -1,4 +1,4 @@
-## Task 2 – Working with Dynamically Allocated Memory
+## Task 02 – Working with Dynamically Allocated Memory
 
 Completed code is provided where, despite all tests passing, a defect in dynamic memory management exists. The implementation is to be corrected to resolve this error.
 

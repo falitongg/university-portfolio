@@ -1,0 +1,90 @@
+{
+  "floors": [
+    {
+      "level": 0,
+      "name": "Ground Floor",
+      "rooms": [
+        {
+          "type": "KITCHEN",
+          "devices": [
+            { "type": "FRIDGE", "name": "Fridge" },
+            { "type": "FRIDGE", "name": "Fridge1" },
+            { "type": "STOVE", "name": "Stove" },
+            { "type": "STOVE", "name": "Stove1" }
+          ]
+        },
+        {
+          "type": "LIVINGROOM",
+          "devices": [
+            { "type": "CD_PLAYER", "name": "CD" },
+            { "type": "CD_PLAYER", "name": "CD1" },
+            { "type": "CD_PLAYER", "name": "CD2" },
+            { "type": "BLINDS", "name": "Blinds" },
+            { "type": "BLINDS", "name": "Blinds1" },
+            { "type": "SMART_WINDOW", "name": "Window" },
+            { "type": "SMART_WINDOW", "name": "Window1" },
+            { "type": "SENSOR", "name": "CO2 sensor", "sensorType":"CO2" }
+          ]
+        },
+        {
+          "type": "BATHROOM",
+          "devices": [
+            { "type": "WASHING_MACHINE", "name": "Washer" },         
+            { "type": "SENSOR", "name": "Humidity sensor", "sensorType":"HUMIDITY"}
+          ]
+        },
+        {
+          "type": "GARDEN",
+          "devices": [
+            { "type": "CIRCUIT_BREAKER", "name": "Breaker" },
+            { "type": "SENSOR", "name": "Wind sensor",  "sensorType":"WIND"}
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "name": "First Floor",
+      "rooms": [
+        {
+          "type": "BEDROOM",
+          "devices": [
+            { "type": "SENSOR", "name": "Temperature sensor", "sensorType":"TEMPERATURE" },
+            { "type": "AIR_CONDITIONER", "name": "AC1" }
+          ]
+        }, {
+          "type": "BATHROOM",
+          "devices": [
+            { "type": "WASHING_MACHINE", "name": "Washer1" }
+          ]
+        },
+        {
+          "type": "BEDROOM",
+          "devices": [  { "type": "AIR_CONDITIONER", "name": "AC" }]
+        }
+      ]
+    }
+  ],
+
+  "sports": [
+    {
+      "type": "BICYCLE",
+      "room": "GARDEN",
+      "amount": 3
+    },
+    {
+      "type": "SKI",
+      "room": "GARDEN",
+      "amount": 2
+    }
+  ],
+
+  "people": [
+    { "name": "Mom", "role": "MOM" },
+    { "name": "Dad", "role": "DAD" },
+    { "name": "Daughter", "role": "DAUGHTER" },
+    { "name": "Son", "role": "SON" },
+    { "name": "Baby", "role": "BABY" },
+    { "name": "Dog", "role": "PET" }
+  ]
+}

@@ -1,4 +1,4 @@
-## PJV - Programming in Java
+## [PJV - Programming in Java](https://intranet.fel.cvut.cz/cz/education/bk/predmety/50/10/p5010706.html)
 ### Synopsis
 
 The course builds on the basics of algorithms and programming from the first semester and introduces students to the Java environment. The course also focus on the object concept of the Java language. The topics of the course includes exceptions, event handling, and building a graphical interface. Basic library methods, working with files and using generic types will be introduced. An important topic is models of multithreaded applications and their implementation.

@@ -1,5 +1,5 @@
 # Java
-## PJV - Programming in Java
+## [PJV - Programming in Java](https://intranet.fel.cvut.cz/cz/education/bk/predmety/50/10/p5010706.html)
 ### Synopsis
 
 The course builds on the basics of algorithms and programming from the first semester and introduces students to the Java environment. The course also focus on the object concept of the Java language. The topics of the course includes exceptions, event handling, and building a graphical interface. Basic library methods, working with files and using generic types will be introduced. An important topic is models of multithreaded applications and their implementation.
@@ -10,4 +10,17 @@ The aim of the course is to develop students' programming skills and expand thei
 
 ### Prerequisites
 Basic knowledge of algorithms and programming.
-## OMO - Object-oriented design and Modeling
+## [OMO - Object-oriented design and Modeling](https://intranet.fel.cvut.cz/cz/education/bk/predmety/44/87/p4487406.html)
+### Course Overview
+This course focused on leveraging object-oriented and functional programming alongside microservices and reactive architecture to design modern applications.
+
+The goal was to build systems that don't just work, but excel in non-functional requirements:
+ - Modularity & Flexibility
+ - Extensibility & Scalability
+ - Performance & High Availability
+
+### Goals of study
+Understanding the basic principles of the object-oriented approach, ability to apply them correctly in moderately complex situations.
+
+### Prerequisites
+Basic knowledge of programming, basic knowledge of mathematics, ability to think precisely.

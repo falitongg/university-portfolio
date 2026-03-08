@@ -1,3 +1,4 @@
+#PC
 import serial
 
 try:
@@ -9,4 +10,5 @@ try:
         data=ser.readline().decode()
         print("We have a message:", data)
 except:
+
     print("Unable to connect")

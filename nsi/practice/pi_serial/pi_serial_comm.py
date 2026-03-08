@@ -1,3 +1,4 @@
+#PI PICO
 from machine import Pin
 import sys
 
@@ -8,4 +9,5 @@ while True:
     print("Pressed:", input)
     
     if input == 'a':
+
         led.toggle()

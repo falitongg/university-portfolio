@@ -1,13 +1,11 @@
 #PI PICO
-from machine import Pin
-import sys
+from machine import Pin, Timer
 
 led = Pin('LED', Pin.OUT)
+timer = Timer()
 
-while True:
-    input = sys.stdin.read(1)
-    print("Pressed:", input)
-    
-    if input == 'a':
+def blink()
+    led.toggle()
+    print("Pi pico says hello")
 
-        led.toggle()
+timer.init(freq=1, mode=Timer.PERIODIC, callback=blink)

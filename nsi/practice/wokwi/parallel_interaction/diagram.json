@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": { "env": "micropython-20241129-v1.24.1" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 150.2,
+      "left": -230.4,
+      "attrs": { "color": "green", "xray": "1" }
+    },
+    { "type": "wokwi-led", "id": "led1", "top": -22.8, "left": -121, "attrs": { "color": "red" } }
+  ],
+  "connections": [
+    [ "btn1:1.r", "pico:GP15", "green", [ "h125", "v31.95" ] ],
+    [ "btn1:2.r", "pico:GND.4", "green", [ "h144.2", "v-6.25" ] ],
+    [ "led1:A", "pico:GP0", "green", [ "v0" ] ],
+    [ "led1:C", "pico:GND.1", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}

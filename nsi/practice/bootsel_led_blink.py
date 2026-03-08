@@ -1,6 +1,10 @@
-import sys
+import rp2
+from machine import Pin
+
+led = Pin("LED", Pin.OUT)
+
 while True:
-    say = input("say smth:")
-    print("You said:", say)
-    
-    
+    if rp2.bootsel_button() == 1:
+        led.on()
+    else:
+        led.off()
